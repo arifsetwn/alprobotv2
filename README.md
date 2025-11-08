@@ -8,7 +8,7 @@ Chatbot interaktif berbasis web untuk membantu mahasiswa pemula memahami konsep 
 
 ## 🌐 Demo
 
-**Live Demo:** [https://chatbotv2-jeu2cve8kghtl949f593rl.streamlit.app/](https://chatbotv2-jeu2cve8kghtl949f593rl.streamlit.app/)
+**Live Demo:** [https://alprobotv2.streamlit.app/](https://alprobotv2.streamlit.app/)
 
 > **Note:** Demo menggunakan Google Gemini API. Klik langsung untuk mencoba!
 
